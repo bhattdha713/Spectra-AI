@@ -7,7 +7,7 @@
 - **Primary contact:** [dkbhatt1307@gmail.com](mailto:dkbhatt1307@gmail.com)
 - **Secondary contact:** [spectra.ai.v13.7.3@gmail.com](mailto:spectra.ai.v13.7.3@gmail.com)
 - **Notebook:** [Open Spectra AI v13.7.3 in Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
-- **DOI:** 10.5281/zenodo.23320326
+- **DOI:** 
 ## Overview
 
 Spectra AI accepts molecular structures in SDF format and user-selected conditions (solvent, pH, temperature, and concentration). It estimates a primary lambda_max (maximum absorption wavelength), generates a simulated spectrum, and can display model-confidence and applicability-domain information. The notebook also supports feedback collection, retraining, evaluation by selected data groups, and ablation analysis.
@@ -240,6 +240,6 @@ The core project idea and its inspiration are original to the project author. Ch
 
 - **Software:** Spectra AI
 - **Version:** v13.7.3
-- **DOI:** 10.5281/zenodo.23320326
+- **DOI:** 
 - **Contributors:** Dhairya Bhatt, Avni Doshi, Mishti Tekwani
 - **Notebook:** [Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
