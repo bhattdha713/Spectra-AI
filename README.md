@@ -30,7 +30,7 @@ The software is intended for computational investigation, method development, an
 
 ### Example 1 — Methoxsalen in methanol
 
-<img width="1072" height="525" alt="fig 1- test molecule Methoxsalen" src="https://github.com/user-attachments/assets/19cf1d59-7789-4a4c-bb75-ea2a36344f63" />
+<img width="1072" height="525" alt="fig 1- test molecule Methoxsalen" src="https://github.com/user-attachments/assets/c9bc4c30-5246-44c5-9d43-d304a3b51c35" />
 
 The supplied run used methanol, pH 7.0, temperature 300 K, concentration 0.1 M, TD-DFT disabled, and two refinement iterations. The log reports a final predicted lambda_max (maximum absorption wavelength) of approximately **295.25 nm**, with confidence `0.07`. The spectrum figure marks the peak at approximately 296 nm.
 
@@ -38,7 +38,7 @@ This is an example of one run, not a general performance estimate. The low repor
 
 ### Example 2 — Orciprenaline water
 
-<img width="1072" height="525" alt="fig 2- training molecule Orciprenaline" src="https://github.com/user-attachments/assets/3c5b970c-fd85-4e7f-829e-0781b6418df3" />
+<img width="1072" height="525" alt="fig 2- training molecule Orciprenaline" src="https://github.com/user-attachments/assets/0f128c2a-14bb-4871-8f80-fc4605637945" />
 
 The supplied run used water, pH 6.0, temperature 300 K, concentration 0.1 M, TD-DFT disabled, and two refinement iterations. The log reports a final predicted lambda_max (maximum absorption wavelength) of approximately **300.75 nm**, confidence `0.15`, and a **Low** applicability-domain status. Feedback was then entered with an actual lambda_max (maximum absorption wavelength) of 276 nm, giving a logged absolute error of approximately **24.8 nm**.
 
@@ -46,7 +46,7 @@ This example illustrates why the predicted value, confidence/applicability infor
 
 ### Feedback error history
 
-<img width="1072" height="525" alt="feedback vs errors" src="https://github.com/user-attachments/assets/8f63df0b-f1a4-4e34-b129-8a708ad4e9b8" />
+<img width="1072" height="525" alt="feedback vs errors" src="https://github.com/user-attachments/assets/8b8d7292-b21a-4657-b9f4-39fe92516ab2" />
 
 The supplied feedback plot shows absolute prediction errors across feedback iterations. Errors are highly variable, with occasional large excursions; the moving average also fluctuates. This plot is useful for monitoring learning history, but it is not, by itself, a controlled test-set learning curve.
 
