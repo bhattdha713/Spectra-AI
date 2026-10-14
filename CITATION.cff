@@ -3,9 +3,9 @@ message: "If you use Spectra AI in your research, please cite this software rele
 title: "Spectra AI: An Integrated Machine-Learning Framework for Structure-Based UV–Vis Spectral Prediction and Adaptive Refinement"
 type: software
 version: 13.7.3
-doi: 10.5281/zenodo.23320326
-url: https://doi.org/10.5281/zenodo.23320326
-repository-code: https://github.com/bhattdha713/Spectra-AI
+doi: 
+doi url: 
+repository-url: https://github.com/bhattdha713/Spectra-AI
 authors:
   - family-names: Bhatt
     given-names: Dhairya
@@ -16,17 +16,3 @@ authors:
   - family-names: Tekwani
     given-names: Mishti
     affiliation: "K. B. Raval College of Pharmacy, Gandhinagar, Gujarat, India"
-keywords:
-  - Spectra AI
-  - UV–Vis spectroscopy
-  - machine learning
-  - molecular spectroscopy
-  - cheminformatics
-  - spectral prediction
-abstract: >-
-  Spectra AI is a computational software framework for structure-based
-  estimation of UV–Visible absorption maxima and modelled spectral generation
-  under selected solvent and experimental-condition inputs. The software
-  integrates cheminformatics, machine-learning predictors, analogue-based
-  information, empirical spectral rules, optional quantum-chemical calculations,
-  adaptive refinement, and visualization.
