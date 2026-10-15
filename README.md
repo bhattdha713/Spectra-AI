@@ -241,6 +241,6 @@ The core project idea and its inspiration are original to the project author. Ch
 - **Software:** Spectra AI
 - **Version:** v13.7.3
 - **DOI:**
-- - **github url** [bhatt713](https://github.com/bhattdha713/Spectra-AI)
+- **GitHub url** [bhatt713](https://github.com/bhattdha713/Spectra-AI)
 - **Contributors:** Dhairya Bhatt, Avni Doshi, Mishti Tekwani
 - **Notebook:** [Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
