@@ -1,12 +1,12 @@
+
 cff-version: 1.2.0
-Message: "If you use Spectra AI in your research, please cite this software release."
-Title: "Spectra AI: An Integrated Machine-Learning Framework for Structure-Based UV–Vis Spectral Prediction and Adaptive Refinement"
-Type: software
-Version: 13.7.3
-Doi: 10.5281/zenodo.23402688
-Doi citation: Bhatt, D., Doshi, A., & Tekwani, M. (2026). Spectra AI: An Integrated Machine-Learning Framework for Structure-Based UV–Vis Spectral Prediction and Adaptive Refinement (Version 13.7.3) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23402688
-Repository-url: https://github.com/bhattdha713/Spectra-AI
-Authors:
+message: "If you use Spectra AI in your research, please cite this software release."
+title: "Spectra AI: An Integrated Machine-Learning Framework for Structure-Based UV–Vis Spectral Prediction and Adaptive Refinement"
+type: software
+version: 13.7.3
+doi: "10.5281/zenodo.23402688"
+repository-code: "https://github.com/bhattdha713/Spectra-AI"
+authors:
   - family-names: Bhatt
     given-names: Dhairya
     affiliation: "K. B. Raval College of Pharmacy, Gandhinagar, Gujarat, India"
