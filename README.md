@@ -2,12 +2,15 @@
 
 **Spectra AI** is a computational tool for estimating molecular UV–Visible absorption maxima (lambda_max (maximum absorption wavelength)) and generating modelled spectra under selected solvent and experimental-condition inputs. The implementation combines cheminformatics, machine-learning predictors, analogue retrieval, empirical spectral rules, optional quantum-chemical calculations, condition-dependent corrections, uncertainty-related scoring, and visualization in a Google Colab notebook.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23402688.svg)](https://doi.org/10.5281/zenodo.23402688)
+
 - **Version:** `v13.7.3`
 - **Interface:** Google Colab / Jupyter Notebook
 - **Primary contact:** [dkbhatt1307@gmail.com](mailto:dkbhatt1307@gmail.com)
 - **Secondary contact:** [spectra.ai.v13.7.3@gmail.com](mailto:spectra.ai.v13.7.3@gmail.com)
 - **Notebook:** [Open Spectra AI v13.7.3 in Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
-- **DOI:** 
+- **DOI:** 10.5281/zenodo.23402688
+
 ## Overview
 
 Spectra AI accepts molecular structures in SDF format and user-selected conditions (solvent, pH, temperature, and concentration). It estimates a primary lambda_max (maximum absorption wavelength), generates a simulated spectrum, and can display model-confidence and applicability-domain information. The notebook also supports feedback collection, retraining, evaluation by selected data groups, and ablation analysis.
@@ -240,7 +243,8 @@ The core project idea and its inspiration are original to the project author. Ch
 
 - **Software:** Spectra AI
 - **Version:** v13.7.3
-- **DOI:**
+- **DOI:** 10.5281/zenodo.23402688
+- **DOI url:** [10.5281/zenodo.23402688](https://zenodo.org/records/23402688)
 - **GitHub url:** [bhatt713](https://github.com/bhattdha713/Spectra-AI)
 - **Contributors:** Dhairya Bhatt, Avani Doshi, Mishti Tekwani
 - **Notebook:** [Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
