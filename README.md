@@ -1,19 +1,19 @@
-# Spectra AI v13.7.3
+# Spectra ML v13.7.3
 
-**Spectra AI** is a computational tool for estimating molecular UV–Visible absorption maxima (lambda_max (maximum absorption wavelength)) and generating modelled spectra under selected solvent and experimental-condition inputs. The implementation combines cheminformatics, machine-learning predictors, analogue retrieval, empirical spectral rules, optional quantum-chemical calculations, condition-dependent corrections, uncertainty-related scoring, and visualization in a Google Colab notebook.
+**Spectra ML** is a computational tool for estimating molecular UV–Visible absorption maxima (lambda_max (maximum absorption wavelength)) and generating modelled spectra under selected solvent and experimental-condition inputs. The implementation combines cheminformatics, machine-learning predictors, analogue retrieval, empirical spectral rules, optional quantum-chemical calculations, condition-dependent corrections, uncertainty-related scoring, and visualization in a Google Colab notebook.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23402688.svg)](https://doi.org/10.5281/zenodo.23402688)
 
 - **Version:** `v13.7.3`
 - **Interface:** Google Colab / Jupyter Notebook
 - **Primary contact:** [dkbhatt1307@gmail.com](mailto:dkbhatt1307@gmail.com)
-- **Secondary contact:** [spectra.ai.v13.7.3@gmail.com](mailto:spectra.ai.v13.7.3@gmail.com)
-- **Notebook:** [Open Spectra AI v13.7.3 in Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
+- **Secondary contact:** [spectra.ml.v13.7.3@gmail.com](mailto:spectra.ml.v13.7.3@gmail.com)
+- **Notebook:** [Open Spectra ML v13.7.3 in Google Colab](https://colab.research.google.com/drive/1Rlp3hXHdpqLTQX5PruvIbz3HFopt8m_F?usp=drive_link)
 - **DOI:** 10.5281/zenodo.23402688
 
 ## Overview
 
-Spectra AI accepts molecular structures in SDF format and user-selected conditions (solvent, pH, temperature, and concentration). It estimates a primary lambda_max (maximum absorption wavelength), generates a simulated spectrum, and can display model-confidence and applicability-domain information. The notebook also supports feedback collection, retraining, evaluation by selected data groups, and ablation analysis.
+Spectra ML accepts molecular structures in SDF format and user-selected conditions (solvent, pH, temperature, and concentration). It estimates a primary lambda_max (maximum absorption wavelength), generates a simulated spectrum, and can display model-confidence and applicability-domain information. The notebook also supports feedback collection, retraining, evaluation by selected data groups, and ablation analysis.
 
 The software is intended for computational investigation, method development, and hypothesis generation in molecular spectroscopy. Quantitative performance should be reported with the exact software/data version, evaluation protocol, sample count, and reference-data provenance. Predictions and modelled spectra should be interpreted alongside experimental evidence where scientific conclusions depend on specific compounds or conditions.
 
@@ -241,7 +241,7 @@ The core project idea and its inspiration are original to the project author. Ch
 
 ## Citation and release
 
-- **Software:** Spectra AI
+- **Software:** Spectra ML
 - **Version:** v13.7.3
 - **DOI:** 10.5281/zenodo.23402688
 - **DOI url:** [10.5281/zenodo.23402688](https://zenodo.org/records/23402688)
