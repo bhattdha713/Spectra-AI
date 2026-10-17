@@ -39,7 +39,7 @@ The supplied run used methanol, pH 7.0, temperature 300 K, concentration 0.1 M, 
 
 This is an example of one run, not a general performance estimate. The low reported confidence should be retained when interpreting the output.
 
-### Example 2 — Orciprenaline water
+### Example 2 — Orciprenaline in water
 
 <img width="1072" height="525" alt="fig 2- training molecule Orciprenaline" src="https://github.com/user-attachments/assets/0f128c2a-14bb-4871-8f80-fc4605637945" />
 
